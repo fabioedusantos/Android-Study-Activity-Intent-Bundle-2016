@@ -15,5 +15,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".CadastroActivity" />
+        <activity android:name=".VisualizaActivity"></activity>
     </application>
 </manifest>
